@@ -1,0 +1,111 @@
+
+.navbar-brand{
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* navbar text color change */
+.navbar #myMenu .custom-nav .nav-item a{
+    color:brown;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+/* image background */
+.position{
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover;
+    min-height: 70vh;
+    border-radius: 0px;
+}
+.text{
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+    font-weight: bold;
+}
+/* 
+/* color of android and C */
+.gree{
+    color: green;
+}
+.card{
+    min-height: 50vh;
+    min-width: 30vh;
+}
+.change{
+    font-family: 'Shrikhand', cursive;
+}
+.colo{
+color:black;
+}
+/* color instagram and twitter */
+.ccol
+{
+color: #FF6382;
+}
+.name{
+    color:#405D9B;
+}
+.btn-outline-danger
+{
+    border: solid;
+}
+/* youtube color */
+.iconcol
+{
+color:red;
+}
+
+.but{
+    color:#333333;
+    font-style: italic;
+font-weight: 300;    
+color: #cccccc;
+}
+
+
+.bouncy {
+    animation: bouncy 10s  5 linear;
+    position: relative;
+  }
+  @keyframes bouncy {
+    0% {
+      top: 0em
+    }
+    40% {
+      top: 0em
+    }
+    43% {
+      top: -0.9em
+    }
+    46% {
+      top: 0em
+    }
+    48% {
+      top: -0.4em
+    }
+    50% {
+      top: 0em
+    }
+    100% {
+      top: 0em;
+    }
+  }
+  
+.first
+{
+   font-size: 3em;}
+/* boader  */
+.adiv{
+    border-radius: 2em;
+    border: dotted;
+    border-color: darkred;
+}
+.ncol{
+    background-color: darkgreen;  
+}
+.textcol{
+    color: brown;
+}
